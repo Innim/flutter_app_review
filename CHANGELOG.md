@@ -1,3 +1,7 @@
+## 2.2.0
+
+* Update dependencies.
+
 ## 2.1.3+1
 
 * Fix naming package for ios.
