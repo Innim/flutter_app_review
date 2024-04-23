@@ -1,3 +1,7 @@
+## 2.3.1
+
+* Allow package_info_plus till 9.0.0 (excluded).
+
 ## 2.3.0
 
 * Required package_info_plus version from 5.1.0 to 8.0.0.
