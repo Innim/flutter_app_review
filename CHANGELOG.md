@@ -1,6 +1,6 @@
 ## 2.3.0
 
-* Update package_info_plus to 8.0.0 version.
+* Required package_info_plus version from 5.1.0 to 8.0.0.
 
 ## 2.2.0
 
