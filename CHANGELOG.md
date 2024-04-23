@@ -1,3 +1,7 @@
+## 2.3.0
+
+* Required package_info_plus version from 5.1.0 to 8.0.0.
+
 ## 2.2.0
 
 * Update dependencies.
