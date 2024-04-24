@@ -1,3 +1,7 @@
+## 2.3.1+1
+
+* Fix typo in version package_info_plus (from 5.0.1 instead of 5.1.0).
+
 ## 2.3.1
 
 * Allow package_info_plus till 9.0.0 (excluded).
