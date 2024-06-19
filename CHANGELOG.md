@@ -1,3 +1,7 @@
+## 2.3.2
+
+* [Android] Update `com.google.android.play:core` to version 1.10.3.
+
 ## 2.3.1+1
 
 * Fix typo in version package_info_plus (from 5.0.1 instead of 5.1.0).
