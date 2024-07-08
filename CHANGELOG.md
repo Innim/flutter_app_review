@@ -1,3 +1,7 @@
+## 2.3.3
+
+* [Android] migration to `com.google.android.play:review`.
+
 ## 2.3.2
 
 * [Android] Update `com.google.android.play:core` to version 1.10.3.
