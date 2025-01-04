@@ -1,3 +1,7 @@
+## 2.3.4
+
+* [Android] Added namespace declaration for compatibility with latest Android Gradle Plugin.
+
 ## 2.3.3
 
 * [Android] migration to `com.google.android.play:review`.

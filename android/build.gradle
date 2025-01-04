@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "com.appleeducate.appreview"
     compileSdkVersion 28
 
     defaultConfig {
