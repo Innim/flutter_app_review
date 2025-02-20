@@ -1,7 +1,7 @@
 name: app_review_plus
 description: Request and Write Reviews and Open Store Listing for Android and iOS in Flutter. Fork by Innim. 
 version: 2.3.4
-repository: https://github.com/Innim/flutter_app_review
+repository: https://github.com/ki113rtofu/flutter_app_review
 issue_tracker: https://github.com/Innim/flutter_app_review/issues
 
 environment:
