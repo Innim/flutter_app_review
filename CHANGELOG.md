@@ -1,3 +1,7 @@
+## 2.3.5
+
+* [Android] Remove unused `PluginRegistry.Registrar()` to fix build issues with latest Flutter SDK.
+
 ## 2.3.4
 
 * [Android] Added namespace declaration for compatibility with latest Android Gradle Plugin.
